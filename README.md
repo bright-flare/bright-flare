@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<br>
-
 ### ✨ better then better ✨
-
-<br>
 
 <br>
 
