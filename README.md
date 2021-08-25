@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-sseob&show_icons=true&private=true&theme=flag-india)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-sseob&layout=compact)](https://github.com/hyun-sseob)
 
 
