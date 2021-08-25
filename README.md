@@ -1,4 +1,6 @@
-### ✨ better then better ✨
+### ✨ Hi there ✨
+
+### ✨ 안녕하세요 ✨
 
 <br>
 
