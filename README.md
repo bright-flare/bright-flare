@@ -2,11 +2,11 @@
 
 ### 🌞 → 🌙
 
-- 🧑🏻‍💻 출근
-- 🚗 퇴근
-- 🌱 공부
-- 🏡 집
-- 😴 잠
+- 🧑🏻‍💻 go to work
+- 🚗   off work
+- 🌱   learning
+- 🏡   home
+- 😴   sleep
 
 
 <br>
