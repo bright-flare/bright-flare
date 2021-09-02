@@ -2,11 +2,11 @@
 
 ### 🌞 → 🌙
 
-- 🧑🏻‍💻 go to work
-- 🚗   off work
-- 🌱   learning
-- 🏡   home
-- 😴   sleep
+- 🧑🏻‍💻 get to work
+- 🚗 get off work
+- 🌱 learning
+- 🏡 home
+- 😴 sleep
 
 
 <br>
