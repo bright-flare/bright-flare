@@ -1,15 +1,9 @@
 ### Hi there, 안녕하세요 ✨
 
-![redhat](../image/redhat.jpeg)
 
-### 🌞 → 🌙
+### 😎 Redhat, Datadog 목도리를 얻어 기분이 좋은 사람.
 
-- 🧑🏻‍💻 get to work
-- 🚗 get off work
-- 🌱 learning
-- 🏡 home
-- 😴 sleep 
-
+<img src="./image/redhat.jpeg" style="width:30%">
 
 <br>
 
