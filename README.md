@@ -1,5 +1,7 @@
 ### Hi there, 안녕하세요 ✨
 
+![redhat](../image/redhat.jpeg)
+
 ### 🌞 → 🌙
 
 - 🧑🏻‍💻 get to work
