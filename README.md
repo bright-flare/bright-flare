@@ -3,7 +3,7 @@
 
 ### 😎 Redhat, Datadog 목도리를 얻어 기분이 좋은 사람.
 
-<img src="./image/redhat.jpeg" style="width:30%">
+<img src="./image/redhat.jpeg" style="width:45%">
 
 <br>
 
