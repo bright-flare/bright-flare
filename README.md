@@ -1,7 +1,7 @@
 ### Hi there, 안녕하세요 ✨
 
 
-### 😎 Redhat, Datadog 목도리를 얻어 기분이 좋은 사람입니다.
+### 😎 Redhat, Datadog 머플러를 얻어 기분이 좋은 사람입니다.
 
 <img src="./image/redhat.jpeg" style="width:45%">
 
