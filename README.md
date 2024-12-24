@@ -3,7 +3,11 @@
 
 ### 😎 Redhat, Datadog 머플러를 얻어 기분이 좋은 사람입니다.
 
+### 😎 Redhat, Datadog 목도리를 얻어 기분이 좋은 사람.
 <img src="./image/redhat.jpeg" style="width:45%">
+
+### 2024년은 daisy-sseob 계정 활동이 다소 부족했던 한 해였다. 2025년에는 더 열심히 도전하며 성장하자! 🚀
+<img src="./image/2024.png" style="width:45%">
 
 <br>
 
