@@ -1,18 +1,14 @@
-<div align="center">
-
 # 👋 심현섭
 
 <img src="./image/rocket-flare.svg" width="100%" alt="Bright Flare Rocket Banner" />
-
-</div>
 
 ---
 
 ## ✨ About Me
 
 안녕하세요. **심현섭**입니다.  
-제 이름의 뜻은 **현(炫): 밝을 현**, **섭(燮): 불꽃 섭**으로, 저는 저 자신을 **밝은불꽃(Bright Flare)** 이라고 소개합니다.
-**밝고 긍정적이며, 때로는 불꽃처럼 열정적인 태도**로 사람과 일 모두에 진심을 다하려고 노력합니다.
+제 이름의 뜻은 **현(炫): 밝을 현**, **섭(燮): 불꽃 섭**으로, 저는 저 자신을 **밝은불꽃(Bright Flare)** 이라고 소개합니다.  
+**밝고 긍정적이며, 때로는 불꽃처럼 열정적인 태도**로 사람과 일 모두에 진심을 다하려고 노력합니다.  
 
 ---
 
@@ -24,7 +20,7 @@
 - Clean Architecture
 - Event-Driven Architecture
 - Microservices
-- OpenClaw, AI, Claude Code, Codex, Gemini
+- 🦞 OpenClaw, AI, Claude Code, Codex, Gemini
 
 ---
 
