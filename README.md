@@ -12,6 +12,8 @@
 
 ---
 
+<br>
+
 ## 🔍 What I'm into
 
 - DDD
@@ -24,11 +26,15 @@
 
 ---
 
+<br>
+
 ## 📄 Certificates
 
 [![Credly Badge](./image/mongo/from-relational-model-sql-to-mongodb-s-document-mod.png)](https://www.credly.com/badges/957c6616-d845-4bba-9b28-17f4608dcf46/public_url) [![Credly Badge](./image/mongo/mongodb-schema-design-patterns-and-anti-patterns-sk.png)](https://www.credly.com/badges/a725d126-3b0d-48c8-9296-48a9ce1d7c50/public_url)
 
 ---
+
+<br>
 
 ## Blog Posts ✍️
 
@@ -36,6 +42,9 @@
 - [Java를 주로 다루는 개발자가 생각하는 Kotlin 장점 🌼](https://oliveyoung.tech/2024-12-08/kotlin-advantages/?keyword=kotlin)
 - [파트너플랫폼 스쿼드 코드 컨벤션 소개 🌼](https://oliveyoung.tech/2023-12-05/partner-platform-code-convention/?keyword=%EC%BD%94%EB%93%9C%20%EC%BB%A8%EB%B2%A4)
 
+---
+
+<br>
 
 ## 🏢 Current Company
 
@@ -44,6 +53,8 @@
 | CJ Oliveyoung | Software Engineer | 2022년 9월 ~ 현재 |
 
 ---
+
+<br>
 
 ## 📫 Contact
 
